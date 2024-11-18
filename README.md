@@ -1,4 +1,8 @@
-# quick-repo-management-scripts
-Scripts to manage GitHub repositories: archiving, setting private visibility
+# Quick Repo Management Scripts
 
-Just change the username and token, do not touch anything else in the script
+Python scripts for efficient GitHub repository management, including archiving and setting repositories to private.
+
+## Features
+
+- **Archive Repositories**: Automate the archiving of multiple repositories.
+- **Set Repositories to Private**: Change the visibility of repositories to private in bulk.
